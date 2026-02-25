@@ -790,7 +790,7 @@ startKeyboard : Keyboard
 startKeyboard =
     ( List.map New (String.toList "qwertyuiop")
     , List.map New (String.toList "asdfghjkl⌫")
-    , List.map New (String.toList "zxcvbnm↵")
+    , List.map New (String.toList "zxcvbnm↵ĳ")
     )
 
 
